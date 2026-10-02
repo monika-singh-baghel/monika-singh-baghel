@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Monika+Singh;CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=I+love+to+code+%F0%9F%92%BB;I+love+to+learn+%F0%9F%93%9A;I+love+solving+problems+%F0%9F%A7%A9;Always+learning+something+new+%F0%9F%8C%B1;Exploring+AI+%26+ML+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <i>Learning • Building • Solving • Growing 🚀</i>
-</p>
-
----
+# Hi 👋, I'm Monika Singh
 
 ### 👩‍💻 About Me
 
