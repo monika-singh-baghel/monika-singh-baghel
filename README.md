@@ -1,8 +1,8 @@
+# Hi 👋, I'm Monika Singh
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=I+love+to+code+%F0%9F%92%BB;I+love+to+learn+%F0%9F%93%9A;I+love+solving+problems+%F0%9F%A7%A9;Always+learning+something+new+%F0%9F%8C%B1;Exploring+AI+%26+ML+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
-
-# Hi 👋, I'm Monika Singh
 
 ### 👩‍💻 About Me
 
@@ -12,17 +12,22 @@ I'm a Computer Science Engineering student interested in **programming, problem-
 
 ### 🏆 Highlights
 
-🏆 NPTEL Certified — Cloud Computing
-🏆 Project Expo 2025 — Chandigarh University
-🏆 Tekathon 4.0 — Internal SIH Hackathon
-🤖 IEEE Computational Intelligence — Volunteer
+🏆 **NPTEL Certified — Cloud Computing**
+
+🏆 **Project Expo 2025 — Chandigarh University**
+
+🏆 **Tekathon 4.0 — Internal SIH Hackathon**
+
+🤖 **IEEE Computational Intelligence — Volunteer**
 
 ---
 
 ### 🚀 Currently
 
 💻 Practicing **Data Structures & Algorithms**
+
 🌐 Exploring **Full-Stack Development**
+
 🤖 Learning **AI & Machine Learning**
 
 ---
