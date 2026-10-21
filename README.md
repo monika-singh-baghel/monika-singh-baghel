@@ -48,7 +48,7 @@ I'm a Computer Science Engineering student interested in **programming, problem-
 ### 📊 Coding Profile
 
 <p align="center">
-  <img src="./assets/codolio.png" width="850">
+  <img src="./assets/codolio.png" alt="My Codolio Coding Profile" width="800"/>
 </p>
 
 ---
