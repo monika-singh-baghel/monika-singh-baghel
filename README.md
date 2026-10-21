@@ -6,59 +6,40 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science Engineering student interested in **programming, problem-solving, software development, and AI/ML**. I enjoy learning new technologies and building things that help me grow as a developer.
-
----
+I'm a Computer Science Engineering student interested in programming, problem-solving, software development, and AI/ML. I enjoy learning new technologies and building things that help me grow as a developer.
 
 ### 🏆 Highlights
 
-🏆 **NPTEL Certified — Cloud Computing**
+🏆 NPTEL Certified — Cloud Computing
 
-🏆 **Project Expo 2025 — Chandigarh University**
+🏆 Project Expo 2025 — Chandigarh University
 
-🏆 **Tekathon 4.0 — Internal SIH Hackathon**
+🏆 Tekathon 4.0 — Internal SIH Hackathon
 
-🤖 **IEEE Computational Intelligence — Volunteer**
-
----
+🤖 IEEE Computational Intelligence — Volunteer
 
 ### 🚀 Currently
 
-💻 Practicing **Data Structures & Algorithms**
+💻 Practicing Data Structures & Algorithms
 
-🌐 Exploring **Full-Stack Development**
+🌐 Exploring Full-Stack Development
 
-🤖 Learning **AI & Machine Learning**
-
----
+🤖 Learning AI & Machine Learning
 
 ### 🛠️ Languages & Tools
 
-**Languages:** `C` `C++` `Java` `Python` `JavaScript`
+Languages: C C++ Java Python JavaScript
 
-**Technologies:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+Technologies: React Node.js Express.js MongoDB Tailwind CSS
 
-**Tools:** `Git` `GitHub` `VS Code`
-
----
+Tools: Git GitHub VS Code
 
 ### 📊 Coding Profile
 
 <p align="center">
-  <a href="https://codolio.com/profile/cFfVFNmG">
-    <img src="https://raw.githubusercontent.com/monika-singh-baghel/monika-singh-baghel/main/assets/codolio.png" alt="My Codolio Coding Profile" width="800"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/monika-singh-baghel/monika-singh-baghel/main/assets/codolio.png" alt="My Codolio Coding Profile" width="800"/>
 </p>
-
----
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Monika Singh](https://www.linkedin.com/in/monika-singh-578701279/)
-- **GitHub:** [monika-singh-baghel](https://github.com/monika-singh-baghel)
-- **LeetCode:** [monikasingh_91](https://leetcode.com/u/monikasingh_91/)
-- **Codolio:** [My Coding Profile](https://codolio.com/profile/cFfVFNmG)
-
----
-
-⭐ *Thanks for visiting my profile!* ⭐
+⭐ Thanks for visiting my profile! ⭐
